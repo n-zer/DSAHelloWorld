@@ -1,12 +1,12 @@
 ﻿  main.cpp
-\\banner.main.ad.rit.edu\students\mat8885\igmprofile\documents\mike teixeira - dsa2 a01 hellowworld\dsa2hellowworld\dsa2hellowworld\dsa2hellowworld\main.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-\\banner.main.ad.rit.edu\students\mat8885\igmprofile\documents\mike teixeira - dsa2 a01 hellowworld\dsa2hellowworld\dsa2hellowworld\dsa2hellowworld\main.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
-\\banner.main.ad.rit.edu\students\mat8885\igmprofile\documents\mike teixeira - dsa2 a01 hellowworld\dsa2hellowworld\dsa2hellowworld\dsa2hellowworld\main.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\users\mat8885\github\dsahelloworld\dsa2hellowworld\main.cpp(97): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\users\mat8885\github\dsahelloworld\dsa2hellowworld\main.cpp(176): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+d:\users\mat8885\github\dsahelloworld\dsa2hellowworld\main.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
   CameraSingleton.cpp
   Generating Code...
 LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/PROFILE' specification
 CameraSingleton.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:LBR' specification
 LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
 LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
-glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at '\\banner.main.ad.rit.edu\students\mat8885\IGMProfile\Documents\mike teixeira - DSA2 A01 HellowWorld\DSA2HellowWorld\DSA2HellowWorld\Debug\vc120.pdb'; linking object as if no debug info
-  DSA2HellowWorld.vcxproj -> \\banner.main.ad.rit.edu\students\mat8885\IGMProfile\Documents\mike teixeira - DSA2 A01 HellowWorld\DSA2HellowWorld\DSA2HellowWorld\Debug\DSA2HellowWorld.exe
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\Users\mat8885\github\DSAHelloWorld\Debug\vc120.pdb'; linking object as if no debug info
+  DSA2HellowWorld.vcxproj -> D:\Users\mat8885\github\DSAHelloWorld\Debug\DSA2HellowWorld.exe
